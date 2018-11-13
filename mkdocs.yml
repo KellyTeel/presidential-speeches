@@ -1,8 +1,8 @@
-site_name: HIS4936 Final Project Starter
+site_name: Presidential Speeches
 theme_dir: theme
 theme: null
-copyright: 'Copyright &copy; 2018 <a href="mailto:dave.a.base@gmail.com">David J. Thomas</a>'
-repo_url: https://github.com/thePortus/his4936-starter
+copyright: 'Copyright &copy; 2018 <a href="mailto:kellyteel@mail.usf.edu">Kelly Teel</a>'
+repo_url: https://github.com/KellyTeel/presidental-speeches
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
