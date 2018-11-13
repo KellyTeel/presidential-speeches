@@ -6,7 +6,7 @@ If you want to add an image with a caption you can do it like this....
 
 <figure>
 
-![Replace Me, Sample Image](imgs/caesarian_code.png)
+![Replace Me, Sample Image](imgs/gwhc.png)
 
 <figcaption>
 
