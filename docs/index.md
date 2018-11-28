@@ -1,4 +1,4 @@
-# Replace This Title!
+# Presidental Speeches Comparaison Analysis Based on Political Party
 
 ---
 
@@ -21,7 +21,7 @@
 
 ---
 
-Replace this, putting the introduction/summary of your project here. Leave the credits in the bottom section, however.
+This  pilot project will prove that there is great possibiity for academic discussion and digital research into the text analysis of Presidental Speeches. In this project, I will use various text-mining tools to analyze the speeches by poltical party and compare the results. In this I hope to discover something substainal, or at least to inspire further research into text-analysis of speeches.
 
 ---
 
