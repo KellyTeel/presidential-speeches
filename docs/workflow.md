@@ -1,5 +1,9 @@
 # Workflow
 
+
+For this project, I took the folder of presidential speeches and separated them based on political party. Based on the information provided by [ThoughtCo.](https://www.thoughtco.com/presidents-and-vice-presidents-chart-4051729), I made five new folders; Democrat, Democrat-Republican, Federalist, Republican, Whig, and  Unaffiliated. Using these divisions, I then uploaded them into [Voyant]( https://voyant-tools.org/). These visualizations serve as the basis for my pilot project. I then analyzed and compared the results from each political party.
+
+
 Describe your overall workflow here.
 
 Discuss (in detail) the processes of
