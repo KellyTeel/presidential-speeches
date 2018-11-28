@@ -1,4 +1,4 @@
-# Presidental Speeches Comparaison Analysis Based on Political Party
+# Presidental Speeches Comparison Analysis Based on Political Party
 
 ---
 
