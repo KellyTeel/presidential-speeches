@@ -1,8 +1,7 @@
 # Initial Findings
 
-This is where you where you discuss any (initial) conclusions you have come to. This is also a natural place to put any and all visualizations that you come up with. In fact, this is where you tell the reader what it is you discovered. You can use the first person if that helps you discuss the process. This is where you both describe to the reader what they are looking at (if they are looking at a visualization) and, most importantly, what your interpretation of the results is.
+First and foremost, I wanted to experiment with a single president's speeches to see what the data looked like and how Orange 3 and Voyant could handle the data. Since I am separating the data by political party, I decided to utilize the one president that had no party affiliation: George Washington.
 
-If you want to add an image with a caption you can do it like this....
 
 <figure>
 
@@ -21,6 +20,8 @@ The visualization above done in Orange 3, represents 21 speeches given by George
 
 ---
 
+Below are the various visualizations created using Voyant. It should be noted that not every president is included in this data, only those who were confirmed Democrats or Republicans. Therefore there are no presidents associated with the Whig Party, Democratic Republicans, or Federalists. I made this decision for simplicity's sake, but I do feel that it is worth further investigation by anyone who takes this research further.
+
 Whether you turn your visualizations into static pictures and put them here or embed them, you MUST discuss your visualizations adequately. That means that whoever is the visualization expert must explain what they think the visualization means. You should explain anything that is not self-apparent from the picture alone. Moreover, you should at least comment on whether you think you can draw broader conclusions from any of the visualizations, either when considered individually or all together.
 
 If your project was less visualization-centric, this is where you at least explain in plain words what you learned through the process of non-visual analysis. For example, if you used text mining not for visualization purposes, but to help you manually find interesting threads of conversation in a body of documents.
@@ -31,7 +32,7 @@ You must also comment on where you would go next. If these are initial findings,
 
 ---
 
-
+This first set of visualizations highlight the word counts in Democratic and Republican Presidental Speeches. We can see that overall, these lists are very similar. However, in the Democratic list, words "war" and "president" have much higher word counts than on the Republican list. And the term "great" is present on the Republican list where it is not on the Democratic list. What this visualization shows us is that there is in fact a difference in the diction or chosen words of president's based on poltical affiliation. 
 
 <figure>
 
@@ -39,7 +40,7 @@ You must also comment on where you would go next. If these are initial findings,
 
 <figcaption>
 
-*Visualization created in Voyant*
+Democratic Speeches Word Count *Visualization created in Voyant*
 
 </figcaption>
 
@@ -52,7 +53,7 @@ You must also comment on where you would go next. If these are initial findings,
 
 <figcaption>
 
-*Visualization created in Voyant*
+Republican Speeches Word Count *Visualization created in Voyant*
 
 </figcaption>
 
@@ -60,13 +61,15 @@ You must also comment on where you would go next. If these are initial findings,
 
 ---
 
+Next, I have created work link visualizations. This visualization was far less successful in telling us something truely meaningful about the speeches, however, they do highlight the overall similarities in all Presidental Speeches based on the very nature of what they are. It makes sense that many of the same words are used in the same contexts throughout all speeches, regardless of poltical party.
+
 <figure>
 
 ![Replace Me, Sample Image](imgs/dem_wordlinks.PNG)
 
 <figcaption>
 
-*Visualization created in Voyant*
+Democratic Word Links *Visualization created in Voyant*
 
 </figcaption>
 
@@ -79,7 +82,7 @@ You must also comment on where you would go next. If these are initial findings,
 
 <figcaption>
 
-*Visualization created in Voyant*
+Republican Word Links *Visualization created in Voyant*
 
 </figcaption>
 
