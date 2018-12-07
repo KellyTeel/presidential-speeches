@@ -1,19 +1,14 @@
 # Source Analysis
 
-Delete this introductory material when submitting your assignment.
-
-This source analysis should discuss whatever source(s) you used for this project.
-
-See the [README.md](README.md) file for information on how to submit this assignment.
-
-**You SHOULD revise your source analysis if you already did one for the given website.**
 ---
 
 ## Basic Source Information
 
-* Where is your source located (URL? Or traditional media)
-* What kind of source is it? (Diaries, records of objects, data tables, etc...)
-* Who, or what organization, is responsible for hosting the source (if online), who gathered the information?
+It should be noted that I attianed the data set via [David J. Thomas](mailto:davidjthomas@usf.edu) who had a prior student webscrape the data from it's original source. I did not do the actual webscrape for this pilot project.
+
+* The data set came from [The American Presidency Project](https://www.presidency.ucsb.edu/).
+* The APP provided transcripts of recorded, offical presidnetal address. The webscrape then turned the transcript into txt files organized into folders named after every US president.
+* The source is hosted online by [UC Santa Barbara](https://www.ucsb.edu/), and the data was originally obtained by Gerhard Peters and John Woolley in 1999, according to the [About Page](https://www.presidency.ucsb.edu/about) provided on the website.
 
 ---
 
@@ -29,6 +24,7 @@ See the [README.md](README.md) file for information on how to submit this assign
 
 ## Data Analysis
 
+* It is probable that there may be some bias involved in the selection of the speeches chosen to a part of the dataset. The qualifications for what is considered a "presidental speech" is vague.
 * Do the datasets involved reflect the viewpoints of particular groups or institutions, and if so, who?
 * What kinds of categorizations do you find in the data, and do they seem reasonable?
 * Do the means of data collection or categorization affect how the data is constructed in any way?
