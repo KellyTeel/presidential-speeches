@@ -8,7 +8,7 @@
 
 <figcaption>
 
-*Put a caption to your image here, if you want*
+*Offical presidential seal of the United States*
 
 </figcaption>
 
