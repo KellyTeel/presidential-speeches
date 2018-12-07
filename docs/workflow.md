@@ -1,22 +1,11 @@
 # Workflow
 
+The workflow for this pilot project was rather simple and straight-forward. This is laregly due to me recieving the data pre-webscraped and ready for input. Once I decided a topic for this pilot project, the steps to analyze them came farily easily.
 
-For this project, I took the folder of presidential speeches and separated them based on political party. Based on the information provided by [ThoughtCo.](https://www.thoughtco.com/presidents-and-vice-presidents-chart-4051729), I made five new folders; Democrat, Democrat-Republican, Federalist, Republican, Whig, and  Unaffiliated. Using these divisions, I then uploaded them into [Voyant]( https://voyant-tools.org/). These visualizations serve as the basis for my pilot project. I then analyzed and compared the results from each political party.
+First and foremost, I took the folder of presidential speeches and separated them based on political party. Based on the information provided by [ThoughtCo.](https://www.thoughtco.com/presidents-and-vice-presidents-chart-4051729), I made five new folders; Democrat, Democrat-Republican, Federalist, Republican, Whig, and  Unaffiliated. Using these divisions, I then uploaded them into [Voyant]( https://voyant-tools.org/). These visualizations serve as the basis for my pilot project. I then analyzed and compared the results from each political party.
+
+Additionally, as a sample, I took George Washington's speeches and put them into [Orange3](https://orange.biolab.si/). I then used the workfow below, provided by [this video](https://www.youtube.com/watch?v=dJ5z2SRwzgs&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy&index=5) on Orange3's offical youtube page, to iniciate hierchical clustering and analyze the resulting data.
+
+I then screenshotted all my visualizations and uploaded them to Github, where I sorted and anlyzed the data and my findings. Although this is a solo project, I recieved input and advice from my fellow classmates, [Brandon Pearson](mailto:bpearson1@mail.usf.edu) and [ALex Ferreira](mailto:aferreira2@mail.usf.edu)
 
 
-Describe your overall workflow here.
-
-Discuss (in detail) the processes of
-
-* Getting the data
-* Cleaning/altering the data
-* Visualizing the data
-* Discussing and sharing results with group members
-
-What you need to cover: Talk about every step in your process, talk about how and why you made the decisions that you did. Why did you pick the website that you did? Did you download every record, or just some? Did you download the data directly from the website, or did you use a tool like Webscraper.io? Did you use OpenRefine to change the raw data in some form, and if so, why did you change it the way you did? What program(s) or techniques did you decide on to visualize or analyze it? Why did you feel those programs (e.g. Tableau or Gephi) were better than other options, given your research interest? Did you have to do anything to the data inside Tableau?
-
-To make elegant workflow charts, use [LucidChart](https://lucidchart.com)
-
-Take plenty of screenshots to document your process...
-    * **Mac** press 'command' + 'shift' + '4' and then drag a rectangle to take a screenshot of whatever you select... On
-    * **Windows**, click the 'Start' button then type 'Snipping' and select Snipping Tool, then click 'New' and drag a rectangle to take a screenshot of whatever you select.
