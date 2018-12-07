@@ -8,7 +8,7 @@ Additionally, as a sample, I took George Washington's speeches and put them into
 
 <figure>
 
-![Replace Me, Sample Image](imgs/orange.png)
+![Can't get this picture to show up](imgs/orange.png)
 
 <figcaption>
 
