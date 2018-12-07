@@ -6,6 +6,19 @@ First and foremost, I took the folder of presidential speeches and separated the
 
 Additionally, as a sample, I took George Washington's speeches and put them into [Orange3](https://orange.biolab.si/). I then used the workfow below, provided by [this video](https://www.youtube.com/watch?v=dJ5z2SRwzgs&list=PLmNPvQr9Tf-ZSDLwOzxpvY-HrE0yv-8Fy&index=5) on Orange3's offical youtube page, to iniciate hierchical clustering and analyze the resulting data.
 
+<figure>
+
+![Replace Me, Sample Image](imgs/orange.png)
+
+<figcaption>
+
+*Visualization created in Orange 3*
+
+</figcaption>
+
+</figure>
+
+
 I then screenshotted all my visualizations and uploaded them to Github, where I sorted and anlyzed the data and my findings. Although this is a solo project, I recieved input and advice from my fellow classmates, [Brandon Pearson](mailto:bpearson1@mail.usf.edu) and [ALex Ferreira](mailto:aferreira2@mail.usf.edu)
 
 
