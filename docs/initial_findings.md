@@ -92,7 +92,7 @@ Republican Word Links *Visualization created in Voyant*
 
 <figure>
 
-![Replace Me, Sample Image](imgs/dem_wordcount.PNG)
+![Replace Me, Sample Image](imgs/dem_trends.PNG)
 
 <figcaption>
 
@@ -104,7 +104,7 @@ Republican Word Links *Visualization created in Voyant*
 
 <figure>
 
-![Replace Me, Sample Image](imgs/rep_wordcount.PNG)
+![Replace Me, Sample Image](imgs/rep_trends.PNG)
 
 <figcaption>
 
