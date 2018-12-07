@@ -1,5 +1,5 @@
 # HIS4936 - Hacking History
-Digital Workbook, [University of South Florida](http://www.usf.edu/), Fall 2016
+Digital Workbook, [University of South Florida](http://www.usf.edu/), Fall 2018
 
 ---
 
@@ -7,34 +7,33 @@ By: [Kelly Teel](mailto:kellyteel@mail.usf.edu)
 
 ---
 
+# Presidental Speeches Comparison Analysis Based on Political Party
+
+---
+
 <figure>
 
-![Replace Me, Sample Image](docs/imgs/caesarian_code.png)
+![Replace Me, Sample Image](imgs/seal.PNG)
 
-<figcaption>*Put a caption to your image here, if you want*</figcaption>
+<figcaption>
+
+*Offical presidential seal of the United States*
+
+</figcaption>
 
 </figure>
 
----
-
-## Project Template
-
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
-
-See the [Course Workbook Project Page](https://hacking-history.readthedocs.io/project) for more information on the final project.
-
-**REQUIREMENTS BEFORE STARTING**
-+ [GitHub account](https://github.com) created
-+ [GitHub Desktop](https://desktop.github.com) client installed
-+ [Atom](https://atom.io) editor installed
-+ [Python 3.x](https://www.python.org/) installed
+Created by the magic of the [internet](https://www.youtube.com/watch?v=mfMrVKnGzwg), the infinite knowledge of [David Thomas](https://github.com/thePortus), and [Kelly Teel](mailto:kellyteel@mail.usf.edu)
 
 ---
 
-## Past Project Examples
+This  pilot project will prove that there is great possibiity for academic discussion and digital research into the text analysis of Presidental Speeches. In this project, I will use various text-mining tools to analyze the speeches by poltical party and compare the results. In this I hope to discover something substainal, or at least to inspire further research into text-analysis of speeches.
 
-* [Confederate Memorials](http://confederate-memorials-project.readthedocs.io/)
-* [The Slave Ledges](http://slave-ledger.readthedocs.io/en/latest/)
-* [An Teanga Sean: The Celtic Languages](http://an-teanga-sean-the-celtic-languages.readthedocs.io/)
+---
+
+Created as part of the course [HIS4936, Digital Humanities I: Hacking History](https://hacking-history.readthedocs.io), by [David J. Thomas](https://github.com/thePortus) at the [University of South Florida](https://www.usf.edu)
+
+Powered with [MkDocs](https://mkdocs.org) and [Python 3](https://python.org)
+
 
 ---
